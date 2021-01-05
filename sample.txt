@@ -1,6 +1,9 @@
 Hello Saurabh!!
 
-Bug1 is fixed!! 
-Bug is fixed by another team mate!! 
-Bug2 is fixed!!
+1 -> Bug1 is fixed!!
+ 
+2 -> Bug is fixed by another team mate!!
+ 
+3 -> Bug2 is fixed!!
 
+4 -> added arrows and new lines by team mate 
