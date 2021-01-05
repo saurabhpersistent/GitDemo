@@ -7,6 +7,10 @@ Hello Saurabh!!
  
 3 -> Bug2 is fixed!!
 
-4 -> added arrows and new lines by team mate 
+4 -> added arrows and new lines by team mate.
 
-5 -> Edited from remote by teammate
+5 -> Edited from remote by teammate.
+
+6 -> Edited to check conflict case.
+
+7 -> Change on remote to check conflict
