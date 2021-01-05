@@ -7,10 +7,12 @@ Hello Saurabh!!
  
 3 -> Bug2 is fixed!!
 
-4 -> added arrows and new lines by team mate.
+4 -> Added arrows and new lines by team mate.
 
 5 -> Edited from remote by teammate.
 
 6 -> Edited to check conflict case.
 
-7 -> Change on remote to check conflict
+7 -> Change on remote to check conflict.
+
+9 -> WI9: Sample updated first letter capital and added conflict check.
